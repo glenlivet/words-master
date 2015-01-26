@@ -25,4 +25,57 @@ Options: 1. Learn new words; 2. Review studied words.
 * --nw : 在录入时，表示跳过现在的录入项，录入一个新的单词；在复习时，表示开始复习下一个单词；
 * --rv : 在录入模式下，直接切换到复习模式；
 * --cr : 在复习模式下，当补充了一个单词的定义或者例句后，可以通过该指令继续复习该单词。也可以用作重新复习当前单词的作用。
+
+# 日记
+
+## 26.01.2015
+
+### extraneous
+* We do not want any extraneous information on the page.
+* His account of the fire accident includes a lot of extraneous details.
+
+### mundane
+* Her London life was sedate, almost mundane.
+* It was hard to return to mundane matters after such excitement.
+
+### revenue
+* Tax frauds are dealt with by the InLand Revenue.
+* The Internal Revenue Service sought to disallow the payments.
+
+### stretch
+* It is better to stretch the tight muscles first.
+* I stopped at the square and got out to stretch my legs.
+
+### disincentive
+* High marginal tax rates may act as a disincentive to working longer hours.
+* Fixed wages and lack of promotion act as a disincentive to employees.
+
+### glimpse
+* Several thousand supporters strained to catch a glimpse of the new president.
+* Crowds shouted and pushed to get a glimpse of their hero.
+
+### grasp
+* He let the ball slip through his grasp and into the net.
+* His hand was taken in a warm, firm grasp.
+
+### census
+* Of these, 40% told census-takers they were Muslims.
+* A census of population is taken every ten years.
+
+### entail
+* Selective aversion to certain risks may entail acceptance of other greater risks.
+* Such a decision would entail a huge political risk.
+
+### deferred
+* The department deferred the decision for six months.
+* a tax-deferred savings plan
+
+
+
+
+
+
+
+
+
 	
