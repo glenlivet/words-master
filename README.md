@@ -70,6 +70,36 @@ Options: 1. Learn new words; 2. Review studied words.
 * The department deferred the decision for six months.
 * a tax-deferred savings plan
 
+## 27.01.2015
+
+### selfie
+* Here's a selfie from a flashmob I went to.
+
+### flashmob
+* Here's a selfie from a flashmob I went to.
+
+### photobomb
+* He decided to photobomb me.
+
+### weatherbomb  thoughtbomb
+
+### troll
+* I put it on my social networks - but the trolls said we looked stupid.
+* You can also find us on Twitter, Facebook and many other social networks but, don’t troll us please.
+
+### elite
+
+### narrow
+* narrow the gap
+
+### handful
+* a handful of street names.
+
+### haystack
+* a needle in a haystack
+
+
+
 
 
 
